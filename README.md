@@ -1,4 +1,4 @@
 # hi
 
 ### hi hi
-it i first repository
+it is my first repository

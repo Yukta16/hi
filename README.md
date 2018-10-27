@@ -1,4 +1,4 @@
 # hi
 
-### hi hi
-first reepository
+### hello hello
+first repository
